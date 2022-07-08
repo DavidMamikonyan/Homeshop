@@ -1,0 +1,55 @@
+.header {
+    padding: 20px 0;
+}
+.header_inner {
+    max-width: 1620px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.wishlist_cart_account {
+    display: flex;
+}
+.navigation {
+    display: flex;
+    align-items: center;
+}
+.navigation a{
+    padding-right: 60px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000;
+}
+.wishlist {
+    display: flex;
+    align-items: center;
+    padding-right: 25px;
+}
+.cart {
+    display: flex;
+    align-items: center;
+    padding-right: 25px;
+}
+.account {
+    display: flex;
+    align-items: center;
+    padding-right: 25px;
+}
+.wishlist img {
+    margin-right: 11px;
+}
+.cart img {
+    margin-right: 11px;
+}
+.account img {
+    margin-right: 11px;
+}
+.language {
+    display: flex;
+    align-items: center;
+}
+.language img {
+    padding-right: 11px;
+}
